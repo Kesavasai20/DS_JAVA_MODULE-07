@@ -10,7 +10,7 @@ To design and implement a class NestedIterator that flattens a nested list of in
 5. Update the maximum count found so far and return it. 
 
 ## Program:
-```
+```PY
 /*
 Program to find Flattening a Nested List Using an Iterator
 Developed by: K KESAVA SAI
